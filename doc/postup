@@ -1,0 +1,2 @@
+1) zkopirovat prazdnou cdv service
+2) rails g resource Resource
